@@ -36,7 +36,7 @@ PRODUCT_COPY_FILES += \
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := NX551J
-PRODUCT_NAME := NX551J
+PRODUCT_NAME := omni_NX551J
 PRODUCT_BRAND := Nubia
 PRODUCT_MODEL := Nubia M2
 PRODUCT_MANUFACTURER := Nubia
