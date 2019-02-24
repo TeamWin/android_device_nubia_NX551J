@@ -35,8 +35,8 @@ PRODUCT_COPY_FILES += \
     bionic/libc/zoneinfo/tzdata:recovery/root/system/usr/share/zoneinfo/tzdata
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := nx551j
-PRODUCT_NAME := omni_nx551j
+PRODUCT_DEVICE := NX551J
+PRODUCT_NAME := omni_NX551J
 PRODUCT_BRAND := Nubia
-PRODUCT_MODEL := nx551j
+PRODUCT_MODEL := NX551J
 PRODUCT_MANUFACTURER := Nubia
