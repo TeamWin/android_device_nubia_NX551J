@@ -1,0 +1,15 @@
+[filesystem "f13e74e204de|Private Build|1.8.0_252|/dev/md0"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 5641 microseconds
+[filesystem "Private Build|1.8.0_252|/dev/md0"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 6377 microseconds
+[filesystem "Private Build|1.8.0_252|overlay"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 6376 microseconds
+[filesystem "Private Build|1.8.0_282|/dev/md0"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 4463 microseconds
+[filesystem "Private Build|1.8.0_282|overlay"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 0 nanoseconds
